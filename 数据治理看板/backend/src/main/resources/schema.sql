@@ -1,0 +1,10 @@
+CREATE TABLE data_record (
+  id BIGINT AUTO_INCREMENT PRIMARY KEY,
+  source_type VARCHAR(32) NOT NULL,
+  sample_date DATE NOT NULL,
+  online_value DECIMAL(10,2) NOT NULL,
+  offline_value DECIMAL(10,2) NOT NULL,
+  status VARCHAR(20) NOT NULL,
+  note VARCHAR(255),
+  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
