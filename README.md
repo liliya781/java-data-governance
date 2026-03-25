@@ -3,7 +3,8 @@
 ## CN 简介
 课程/训练型全栈项目（非生产系统），用于演示 `Spring Boot + MyBatis-Plus + Vue + ECharts` 的完整开发流程。
 ## 项目效果
-![Uploading dashboard.png…]()
+<img width="1600" height="1200" alt="dashboard" src="https://github.com/user-attachments/assets/8f74c958-8ce0-4802-bb08-f95043fc3ece" />
+
 
 ## EN Summary
 A course-level full-stack prototype (not production) demonstrating end-to-end development with Spring Boot, MyBatis-Plus, Vue, and ECharts.
